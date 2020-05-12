@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b97cdfda-554b-4ada-808b-4ba335cfac85" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="android-whitelist.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/android-whitelist.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="507" column="6" lean-forward="false" selection-start-line="507" selection-start-column="6" selection-end-line="507" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ios-whitelist.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ios-whitelist.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1588084592831" expanded="true" signature="23:40" ph="{&quot;name&quot;: &quot;MeliSDK&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>list</find>
+      <find>classifieds</find>
+      <find>class</find>
+      <find>credits</find>
+      <find>flox</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/android-whitelist.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mobile-dependencies_whitelist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile-dependencies_whitelist" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v10.16.0/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b97cdfda-554b-4ada-808b-4ba335cfac85" name="Default" comment="" />
+      <created>1583248656842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583248656842</updated>
+      <workItem from="1583248660158" duration="624000" />
+      <workItem from="1583249312130" duration="1129000" />
+      <workItem from="1584559660128" duration="114000" />
+      <workItem from="1588084391891" duration="687000" />
+      <workItem from="1588107748700" duration="1783000" />
+      <workItem from="1589305610932" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4957000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37793428" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3021978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/android-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1589307466861" expanded="true" signature="0:31194" ph="{...}" />
+            <marker date="1589307466861" expanded="true" signature="17:31192" ph="[...]" />
+            <marker date="1589307466861" expanded="true" signature="12445:12454" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12552:12565" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12571:12691" ph="{&quot;name&quot;: &quot;credits&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12697:12798" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12804:12910" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.remote\\.configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12916:13034" ph="{&quot;name&quot;: &quot;ui_components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13040:13133" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.discovery&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13139:13259" ph="{&quot;name&quot;: &quot;engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13265:13396" ph="{&quot;name&quot;: &quot;flux-client&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13402:13493" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.fontela&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13499:13615" ph="{&quot;name&quot;: &quot;history&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13621:13781" ph="{&quot;name&quot;: &quot;instore_home_sections&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13787:13908" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13914:14043" ph="{&quot;name&quot;: &quot;kvs-defaults&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14049:14159" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14165:14309" ph="{&quot;name&quot;: &quot;marketplace\\-map&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14315:14438" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14444:14580" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.merchengine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14586:14702" ph="{&quot;name&quot;: &quot;metrics&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14708:14826" ph="{&quot;name&quot;: &quot;mlcharts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14832:14948" ph="{&quot;name&quot;: &quot;header&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14954:15074" ph="{&quot;name&quot;: &quot;profile-data&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15080:15203" ph="{&quot;name&quot;: &quot;profile-picture&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15209:15329" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15335:15492" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15498:15624" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15630:15791" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15797:15927" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15933:16062" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16068:16208" ph="{&quot;name&quot;: &quot;renderer-fresco&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16214:16331" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16337:16448" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16454:16570" ph="{&quot;name&quot;: &quot;processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16576:16683" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.recommendations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16689:16783" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.comparator&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16789:16877" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.qadb&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16883:17010" ph="{&quot;name&quot;: &quot;remedy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17016:17144" ph="{&quot;name&quot;: &quot;rule\\-engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17150:17238" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17244:17373" ph="{&quot;name&quot;: &quot;input&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17379:17500" ph="{&quot;name&quot;: &quot;attestation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17506:17610" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.uicomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17616:17773" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17779:17905" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17911:18064" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18070:18192" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18198:18314" ph="{&quot;name&quot;: &quot;vip_commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18320:18438" ph="{&quot;name&quot;: &quot;api&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18444:18535" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18541:18659" ph="{&quot;name&quot;: &quot;account_money_plugin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18665:18780" ph="{&quot;name&quot;: &quot;payment_processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18786:18901" ph="{&quot;name&quot;: &quot;balance&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18907:19018" ph="{&quot;name&quot;: &quot;cards&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19024:19141" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19147:19268" ph="{&quot;name&quot;: &quot;checkoutpx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19274:19389" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19395:19512" ph="{&quot;name&quot;: &quot;congrats&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19518:19635" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19641:19770" ph="{&quot;name&quot;: &quot;ml_esc_manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19776:19898" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19904:20019" ph="{&quot;name&quot;: &quot;payment&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20025:20136" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20142:20251" ph="{&quot;name&quot;: &quot;addons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20257:20374" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20380:20491" ph="{&quot;name&quot;: &quot;point_pos&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20497:20610" ph="{&quot;name&quot;: &quot;rxandroidble&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20616:20724" ph="{&quot;name&quot;: &quot;android-times-square&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20730:20846" ph="{&quot;name&quot;: &quot;okhttp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20852:20965" ph="{&quot;name&quot;: &quot;adapter-rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20971:21085" ph="{&quot;name&quot;: &quot;adapter-rxjava2&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21091:21204" ph="{&quot;name&quot;: &quot;converter-gson&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21210:21309" ph="{&quot;name&quot;: &quot;okio&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21315:21432" ph="{&quot;name&quot;: &quot;retrofit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21438:21568" ph="{&quot;name&quot;: &quot;android-image-cropper&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21574:21673" ph="{&quot;name&quot;: &quot;superslim&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21679:21790" ph="{&quot;name&quot;: &quot;rxlifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21796:21915" ph="{&quot;name&quot;: &quot;rxlifecycle-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21921:22050" ph="{&quot;name&quot;: &quot;rxlifecycle-android-lifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22056:22152" ph="{&quot;name&quot;: &quot;eventbus&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22158:22268" ph="{&quot;name&quot;: &quot;fotoapparat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22274:22386" ph="{&quot;name&quot;: &quot;cameraview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22392:22488" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22494:22587" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22593:22699" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22705:22828" ph="{&quot;name&quot;: &quot;biometrics_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22834:22937" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22943:23048" ph="{&quot;name&quot;: &quot;rxkotlin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23054:23156" ph="{&quot;name&quot;: &quot;zbar&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23162:23266" ph="{&quot;name&quot;: &quot;commons-lang3&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23272:23403" ph="{&quot;name&quot;: &quot;kotlin-android-extensions-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23409:23520" ph="{&quot;name&quot;: &quot;kotlin-stdlib&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23526:23644" ph="{&quot;name&quot;: &quot;kotlin-stdlib-common&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23650:23753" ph="{&quot;name&quot;: &quot;calligraphy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23759:23875" ph="{&quot;name&quot;: &quot;kotlin-stdlib-jdk7&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23881:23987" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23993:24113" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24119:24283" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24289:24422" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24428:24570" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24576:24718" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24724:24867" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24873:24989" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24995:25111" ph="{&quot;name&quot;: &quot;webview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25117:25232" ph="{&quot;name&quot;: &quot;drawer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25238:25373" ph="{&quot;name&quot;: &quot;data-manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25379:25512" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25518:25658" ph="{&quot;name&quot;: &quot;mlbusinesscomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25664:25776" ph="{&quot;name&quot;: &quot;kotlin-reflect&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25782:25905" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25911:26006" ph="{&quot;name&quot;: &quot;aspectjrt&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26012:26138" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26144:26265" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26271:26395" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26401:26509" ph="{&quot;name&quot;: &quot;hint-picker&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26515:26628" ph="{&quot;name&quot;: &quot;sms-verification&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26634:26760" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26766:26923" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26929:27055" ph="{&quot;name&quot;: &quot;in-app-updates&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27061:27177" ph="{&quot;name&quot;: &quot;scanner&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27183:27306" ph="{&quot;name&quot;: &quot;draft-modal&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27312:27428" ph="{&quot;name&quot;: &quot;cardform&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27434:27543" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27549:27666" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27672:27820" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27826:28001" ph="{&quot;name&quot;: &quot;discounts_touchpoint&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28007:28109" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28115:28217" ph="{&quot;name&quot;: &quot;appcompat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28223:28323" ph="{&quot;name&quot;: &quot;cardview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28329:28430" ph="{&quot;name&quot;: &quot;customtabs&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28436:28550" ph="{&quot;name&quot;: &quot;material&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28556:28660" ph="{&quot;name&quot;: &quot;gridlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28666:28767" ph="{&quot;name&quot;: &quot;multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28773:28876" ph="{&quot;name&quot;: &quot;widget&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28882:28986" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28992:29100" ph="{&quot;name&quot;: &quot;recyclerview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29106:29210" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29216:29310" ph="{&quot;name&quot;: &quot;media&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29316:29423" ph="{&quot;name&quot;: &quot;legacy-support-v4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29429:29533" ph="{&quot;name&quot;: &quot;transition&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29539:29655" ph="{&quot;name&quot;: &quot;constraintlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29661:29784" ph="{&quot;name&quot;: &quot;constraintlayout-solver&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29790:29900" ph="{&quot;name&quot;: &quot;installreferrer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29906:30015" ph="{&quot;name&quot;: &quot;lifecycle-extensions&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30021:30121" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30127:30231" ph="{&quot;name&quot;: &quot;work-runtime-ktx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30237:30335" ph="{&quot;name&quot;: &quot;mockito-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30341:30437" ph="{&quot;name&quot;: &quot;hamcrest-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30443:30543" ph="{&quot;name&quot;: &quot;mockito-inline&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30549:30650" ph="{&quot;name&quot;: &quot;robolectric&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30656:30762" ph="{&quot;name&quot;: &quot;shadows-multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30768:30875" ph="{&quot;name&quot;: &quot;shadows-supportv4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30881:30991" ph="{&quot;name&quot;: &quot;shadows-playservices&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30997:31077" ph="{&quot;name&quot;: &quot;junit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="31083:31188" ph="{&quot;name&quot;: &quot;timber&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1588084592831" expanded="true" signature="23:40" ph="{&quot;name&quot;: &quot;MeliSDK&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1589307466861" expanded="true" signature="0:31194" ph="{...}" />
+            <marker date="1589307466861" expanded="true" signature="17:31192" ph="[...]" />
+            <marker date="1589307466861" expanded="true" signature="12445:12454" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12552:12565" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12571:12691" ph="{&quot;name&quot;: &quot;credits&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12697:12798" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12804:12910" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.remote\\.configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12916:13034" ph="{&quot;name&quot;: &quot;ui_components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13040:13133" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.discovery&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13139:13259" ph="{&quot;name&quot;: &quot;engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13265:13396" ph="{&quot;name&quot;: &quot;flux-client&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13402:13493" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.fontela&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13499:13615" ph="{&quot;name&quot;: &quot;history&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13621:13781" ph="{&quot;name&quot;: &quot;instore_home_sections&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13787:13908" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13914:14043" ph="{&quot;name&quot;: &quot;kvs-defaults&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14049:14159" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14165:14309" ph="{&quot;name&quot;: &quot;marketplace\\-map&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14315:14438" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14444:14580" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.merchengine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14586:14702" ph="{&quot;name&quot;: &quot;metrics&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14708:14826" ph="{&quot;name&quot;: &quot;mlcharts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14832:14948" ph="{&quot;name&quot;: &quot;header&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14954:15074" ph="{&quot;name&quot;: &quot;profile-data&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15080:15203" ph="{&quot;name&quot;: &quot;profile-picture&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15209:15329" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15335:15492" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15498:15624" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15630:15791" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15797:15927" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15933:16062" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16068:16208" ph="{&quot;name&quot;: &quot;renderer-fresco&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16214:16331" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16337:16448" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16454:16570" ph="{&quot;name&quot;: &quot;processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16576:16683" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.recommendations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16689:16783" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.comparator&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16789:16877" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.qadb&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16883:17010" ph="{&quot;name&quot;: &quot;remedy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17016:17144" ph="{&quot;name&quot;: &quot;rule\\-engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17150:17238" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17244:17373" ph="{&quot;name&quot;: &quot;input&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17379:17500" ph="{&quot;name&quot;: &quot;attestation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17506:17610" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.uicomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17616:17773" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17779:17905" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17911:18064" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18070:18192" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18198:18314" ph="{&quot;name&quot;: &quot;vip_commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18320:18438" ph="{&quot;name&quot;: &quot;api&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18444:18535" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18541:18659" ph="{&quot;name&quot;: &quot;account_money_plugin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18665:18780" ph="{&quot;name&quot;: &quot;payment_processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18786:18901" ph="{&quot;name&quot;: &quot;balance&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18907:19018" ph="{&quot;name&quot;: &quot;cards&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19024:19141" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19147:19268" ph="{&quot;name&quot;: &quot;checkoutpx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19274:19389" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19395:19512" ph="{&quot;name&quot;: &quot;congrats&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19518:19635" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19641:19770" ph="{&quot;name&quot;: &quot;ml_esc_manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19776:19898" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19904:20019" ph="{&quot;name&quot;: &quot;payment&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20025:20136" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20142:20251" ph="{&quot;name&quot;: &quot;addons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20257:20374" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20380:20491" ph="{&quot;name&quot;: &quot;point_pos&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20497:20610" ph="{&quot;name&quot;: &quot;rxandroidble&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20616:20724" ph="{&quot;name&quot;: &quot;android-times-square&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20730:20846" ph="{&quot;name&quot;: &quot;okhttp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20852:20965" ph="{&quot;name&quot;: &quot;adapter-rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20971:21085" ph="{&quot;name&quot;: &quot;adapter-rxjava2&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21091:21204" ph="{&quot;name&quot;: &quot;converter-gson&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21210:21309" ph="{&quot;name&quot;: &quot;okio&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21315:21432" ph="{&quot;name&quot;: &quot;retrofit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21438:21568" ph="{&quot;name&quot;: &quot;android-image-cropper&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21574:21673" ph="{&quot;name&quot;: &quot;superslim&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21679:21790" ph="{&quot;name&quot;: &quot;rxlifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21796:21915" ph="{&quot;name&quot;: &quot;rxlifecycle-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21921:22050" ph="{&quot;name&quot;: &quot;rxlifecycle-android-lifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22056:22152" ph="{&quot;name&quot;: &quot;eventbus&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22158:22268" ph="{&quot;name&quot;: &quot;fotoapparat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22274:22386" ph="{&quot;name&quot;: &quot;cameraview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22392:22488" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22494:22587" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22593:22699" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22705:22828" ph="{&quot;name&quot;: &quot;biometrics_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22834:22937" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22943:23048" ph="{&quot;name&quot;: &quot;rxkotlin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23054:23156" ph="{&quot;name&quot;: &quot;zbar&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23162:23266" ph="{&quot;name&quot;: &quot;commons-lang3&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23272:23403" ph="{&quot;name&quot;: &quot;kotlin-android-extensions-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23409:23520" ph="{&quot;name&quot;: &quot;kotlin-stdlib&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23526:23644" ph="{&quot;name&quot;: &quot;kotlin-stdlib-common&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23650:23753" ph="{&quot;name&quot;: &quot;calligraphy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23759:23875" ph="{&quot;name&quot;: &quot;kotlin-stdlib-jdk7&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23881:23987" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23993:24113" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24119:24283" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24289:24422" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24428:24570" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24576:24718" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24724:24867" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24873:24989" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24995:25111" ph="{&quot;name&quot;: &quot;webview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25117:25232" ph="{&quot;name&quot;: &quot;drawer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25238:25373" ph="{&quot;name&quot;: &quot;data-manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25379:25512" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25518:25658" ph="{&quot;name&quot;: &quot;mlbusinesscomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25664:25776" ph="{&quot;name&quot;: &quot;kotlin-reflect&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25782:25905" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25911:26006" ph="{&quot;name&quot;: &quot;aspectjrt&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26012:26138" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26144:26265" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26271:26395" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26401:26509" ph="{&quot;name&quot;: &quot;hint-picker&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26515:26628" ph="{&quot;name&quot;: &quot;sms-verification&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26634:26760" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26766:26923" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26929:27055" ph="{&quot;name&quot;: &quot;in-app-updates&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27061:27177" ph="{&quot;name&quot;: &quot;scanner&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27183:27306" ph="{&quot;name&quot;: &quot;draft-modal&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27312:27428" ph="{&quot;name&quot;: &quot;cardform&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27434:27543" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27549:27666" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27672:27820" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27826:28001" ph="{&quot;name&quot;: &quot;discounts_touchpoint&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28007:28109" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28115:28217" ph="{&quot;name&quot;: &quot;appcompat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28223:28323" ph="{&quot;name&quot;: &quot;cardview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28329:28430" ph="{&quot;name&quot;: &quot;customtabs&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28436:28550" ph="{&quot;name&quot;: &quot;material&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28556:28660" ph="{&quot;name&quot;: &quot;gridlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28666:28767" ph="{&quot;name&quot;: &quot;multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28773:28876" ph="{&quot;name&quot;: &quot;widget&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28882:28986" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28992:29100" ph="{&quot;name&quot;: &quot;recyclerview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29106:29210" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29216:29310" ph="{&quot;name&quot;: &quot;media&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29316:29423" ph="{&quot;name&quot;: &quot;legacy-support-v4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29429:29533" ph="{&quot;name&quot;: &quot;transition&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29539:29655" ph="{&quot;name&quot;: &quot;constraintlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29661:29784" ph="{&quot;name&quot;: &quot;constraintlayout-solver&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29790:29900" ph="{&quot;name&quot;: &quot;installreferrer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29906:30015" ph="{&quot;name&quot;: &quot;lifecycle-extensions&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30021:30121" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30127:30231" ph="{&quot;name&quot;: &quot;work-runtime-ktx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30237:30335" ph="{&quot;name&quot;: &quot;mockito-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30341:30437" ph="{&quot;name&quot;: &quot;hamcrest-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30443:30543" ph="{&quot;name&quot;: &quot;mockito-inline&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30549:30650" ph="{&quot;name&quot;: &quot;robolectric&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30656:30762" ph="{&quot;name&quot;: &quot;shadows-multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30768:30875" ph="{&quot;name&quot;: &quot;shadows-supportv4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30881:30991" ph="{&quot;name&quot;: &quot;shadows-playservices&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30997:31077" ph="{&quot;name&quot;: &quot;junit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="31083:31188" ph="{&quot;name&quot;: &quot;timber&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1588084592831" expanded="true" signature="23:40" ph="{&quot;name&quot;: &quot;MeliSDK&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1589307466861" expanded="true" signature="0:31194" ph="{...}" />
+            <marker date="1589307466861" expanded="true" signature="17:31192" ph="[...]" />
+            <marker date="1589307466861" expanded="true" signature="12445:12454" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12552:12565" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12571:12691" ph="{&quot;name&quot;: &quot;credits&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12697:12798" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12804:12910" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.remote\\.configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12916:13034" ph="{&quot;name&quot;: &quot;ui_components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13040:13133" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.discovery&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13139:13259" ph="{&quot;name&quot;: &quot;engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13265:13396" ph="{&quot;name&quot;: &quot;flux-client&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13402:13493" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.fontela&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13499:13615" ph="{&quot;name&quot;: &quot;history&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13621:13781" ph="{&quot;name&quot;: &quot;instore_home_sections&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13787:13908" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13914:14043" ph="{&quot;name&quot;: &quot;kvs-defaults&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14049:14159" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14165:14309" ph="{&quot;name&quot;: &quot;marketplace\\-map&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14315:14438" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14444:14580" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.merchengine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14586:14702" ph="{&quot;name&quot;: &quot;metrics&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14708:14826" ph="{&quot;name&quot;: &quot;mlcharts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14832:14948" ph="{&quot;name&quot;: &quot;header&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14954:15074" ph="{&quot;name&quot;: &quot;profile-data&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15080:15203" ph="{&quot;name&quot;: &quot;profile-picture&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15209:15329" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15335:15492" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15498:15624" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15630:15791" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15797:15927" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15933:16062" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16068:16208" ph="{&quot;name&quot;: &quot;renderer-fresco&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16214:16331" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16337:16448" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16454:16570" ph="{&quot;name&quot;: &quot;processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16576:16683" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.recommendations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16689:16783" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.comparator&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16789:16877" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.qadb&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16883:17010" ph="{&quot;name&quot;: &quot;remedy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17016:17144" ph="{&quot;name&quot;: &quot;rule\\-engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17150:17238" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17244:17373" ph="{&quot;name&quot;: &quot;input&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17379:17500" ph="{&quot;name&quot;: &quot;attestation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17506:17610" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.uicomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17616:17773" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17779:17905" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17911:18064" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18070:18192" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18198:18314" ph="{&quot;name&quot;: &quot;vip_commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18320:18438" ph="{&quot;name&quot;: &quot;api&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18444:18535" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18541:18659" ph="{&quot;name&quot;: &quot;account_money_plugin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18665:18780" ph="{&quot;name&quot;: &quot;payment_processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18786:18901" ph="{&quot;name&quot;: &quot;balance&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18907:19018" ph="{&quot;name&quot;: &quot;cards&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19024:19141" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19147:19268" ph="{&quot;name&quot;: &quot;checkoutpx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19274:19389" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19395:19512" ph="{&quot;name&quot;: &quot;congrats&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19518:19635" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19641:19770" ph="{&quot;name&quot;: &quot;ml_esc_manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19776:19898" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19904:20019" ph="{&quot;name&quot;: &quot;payment&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20025:20136" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20142:20251" ph="{&quot;name&quot;: &quot;addons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20257:20374" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20380:20491" ph="{&quot;name&quot;: &quot;point_pos&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20497:20610" ph="{&quot;name&quot;: &quot;rxandroidble&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20616:20724" ph="{&quot;name&quot;: &quot;android-times-square&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20730:20846" ph="{&quot;name&quot;: &quot;okhttp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20852:20965" ph="{&quot;name&quot;: &quot;adapter-rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20971:21085" ph="{&quot;name&quot;: &quot;adapter-rxjava2&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21091:21204" ph="{&quot;name&quot;: &quot;converter-gson&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21210:21309" ph="{&quot;name&quot;: &quot;okio&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21315:21432" ph="{&quot;name&quot;: &quot;retrofit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21438:21568" ph="{&quot;name&quot;: &quot;android-image-cropper&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21574:21673" ph="{&quot;name&quot;: &quot;superslim&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21679:21790" ph="{&quot;name&quot;: &quot;rxlifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21796:21915" ph="{&quot;name&quot;: &quot;rxlifecycle-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21921:22050" ph="{&quot;name&quot;: &quot;rxlifecycle-android-lifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22056:22152" ph="{&quot;name&quot;: &quot;eventbus&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22158:22268" ph="{&quot;name&quot;: &quot;fotoapparat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22274:22386" ph="{&quot;name&quot;: &quot;cameraview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22392:22488" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22494:22587" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22593:22699" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22705:22828" ph="{&quot;name&quot;: &quot;biometrics_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22834:22937" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22943:23048" ph="{&quot;name&quot;: &quot;rxkotlin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23054:23156" ph="{&quot;name&quot;: &quot;zbar&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23162:23266" ph="{&quot;name&quot;: &quot;commons-lang3&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23272:23403" ph="{&quot;name&quot;: &quot;kotlin-android-extensions-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23409:23520" ph="{&quot;name&quot;: &quot;kotlin-stdlib&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23526:23644" ph="{&quot;name&quot;: &quot;kotlin-stdlib-common&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23650:23753" ph="{&quot;name&quot;: &quot;calligraphy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23759:23875" ph="{&quot;name&quot;: &quot;kotlin-stdlib-jdk7&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23881:23987" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23993:24113" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24119:24283" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24289:24422" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24428:24570" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24576:24718" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24724:24867" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24873:24989" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24995:25111" ph="{&quot;name&quot;: &quot;webview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25117:25232" ph="{&quot;name&quot;: &quot;drawer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25238:25373" ph="{&quot;name&quot;: &quot;data-manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25379:25512" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25518:25658" ph="{&quot;name&quot;: &quot;mlbusinesscomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25664:25776" ph="{&quot;name&quot;: &quot;kotlin-reflect&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25782:25905" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25911:26006" ph="{&quot;name&quot;: &quot;aspectjrt&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26012:26138" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26144:26265" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26271:26395" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26401:26509" ph="{&quot;name&quot;: &quot;hint-picker&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26515:26628" ph="{&quot;name&quot;: &quot;sms-verification&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26634:26760" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26766:26923" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26929:27055" ph="{&quot;name&quot;: &quot;in-app-updates&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27061:27177" ph="{&quot;name&quot;: &quot;scanner&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27183:27306" ph="{&quot;name&quot;: &quot;draft-modal&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27312:27428" ph="{&quot;name&quot;: &quot;cardform&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27434:27543" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27549:27666" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27672:27820" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27826:28001" ph="{&quot;name&quot;: &quot;discounts_touchpoint&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28007:28109" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28115:28217" ph="{&quot;name&quot;: &quot;appcompat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28223:28323" ph="{&quot;name&quot;: &quot;cardview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28329:28430" ph="{&quot;name&quot;: &quot;customtabs&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28436:28550" ph="{&quot;name&quot;: &quot;material&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28556:28660" ph="{&quot;name&quot;: &quot;gridlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28666:28767" ph="{&quot;name&quot;: &quot;multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28773:28876" ph="{&quot;name&quot;: &quot;widget&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28882:28986" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28992:29100" ph="{&quot;name&quot;: &quot;recyclerview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29106:29210" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29216:29310" ph="{&quot;name&quot;: &quot;media&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29316:29423" ph="{&quot;name&quot;: &quot;legacy-support-v4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29429:29533" ph="{&quot;name&quot;: &quot;transition&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29539:29655" ph="{&quot;name&quot;: &quot;constraintlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29661:29784" ph="{&quot;name&quot;: &quot;constraintlayout-solver&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29790:29900" ph="{&quot;name&quot;: &quot;installreferrer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29906:30015" ph="{&quot;name&quot;: &quot;lifecycle-extensions&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30021:30121" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30127:30231" ph="{&quot;name&quot;: &quot;work-runtime-ktx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30237:30335" ph="{&quot;name&quot;: &quot;mockito-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30341:30437" ph="{&quot;name&quot;: &quot;hamcrest-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30443:30543" ph="{&quot;name&quot;: &quot;mockito-inline&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30549:30650" ph="{&quot;name&quot;: &quot;robolectric&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30656:30762" ph="{&quot;name&quot;: &quot;shadows-multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30768:30875" ph="{&quot;name&quot;: &quot;shadows-supportv4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30881:30991" ph="{&quot;name&quot;: &quot;shadows-playservices&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30997:31077" ph="{&quot;name&quot;: &quot;junit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="31083:31188" ph="{&quot;name&quot;: &quot;timber&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1588084592831" expanded="true" signature="23:40" ph="{&quot;name&quot;: &quot;MeliSDK&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1589307466861" expanded="true" signature="0:31194" ph="{...}" />
+            <marker date="1589307466861" expanded="true" signature="17:31192" ph="[...]" />
+            <marker date="1589307466861" expanded="true" signature="12445:12454" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12552:12565" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12571:12691" ph="{&quot;name&quot;: &quot;credits&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12697:12798" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12804:12910" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.remote\\.configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12916:13034" ph="{&quot;name&quot;: &quot;ui_components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13040:13133" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.discovery&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13139:13259" ph="{&quot;name&quot;: &quot;engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13265:13396" ph="{&quot;name&quot;: &quot;flux-client&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13402:13493" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.fontela&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13499:13615" ph="{&quot;name&quot;: &quot;history&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13621:13781" ph="{&quot;name&quot;: &quot;instore_home_sections&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13787:13908" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13914:14043" ph="{&quot;name&quot;: &quot;kvs-defaults&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14049:14159" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14165:14309" ph="{&quot;name&quot;: &quot;marketplace\\-map&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14315:14438" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14444:14580" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.merchengine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14586:14702" ph="{&quot;name&quot;: &quot;metrics&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14708:14826" ph="{&quot;name&quot;: &quot;mlcharts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14832:14948" ph="{&quot;name&quot;: &quot;header&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14954:15074" ph="{&quot;name&quot;: &quot;profile-data&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15080:15203" ph="{&quot;name&quot;: &quot;profile-picture&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15209:15329" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15335:15492" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15498:15624" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15630:15791" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15797:15927" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15933:16062" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16068:16208" ph="{&quot;name&quot;: &quot;renderer-fresco&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16214:16331" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16337:16448" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16454:16570" ph="{&quot;name&quot;: &quot;processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16576:16683" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.recommendations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16689:16783" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.comparator&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16789:16877" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.qadb&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16883:17010" ph="{&quot;name&quot;: &quot;remedy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17016:17144" ph="{&quot;name&quot;: &quot;rule\\-engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17150:17238" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17244:17373" ph="{&quot;name&quot;: &quot;input&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17379:17500" ph="{&quot;name&quot;: &quot;attestation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17506:17610" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.uicomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17616:17773" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17779:17905" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17911:18064" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18070:18192" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18198:18314" ph="{&quot;name&quot;: &quot;vip_commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18320:18438" ph="{&quot;name&quot;: &quot;api&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18444:18535" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18541:18659" ph="{&quot;name&quot;: &quot;account_money_plugin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18665:18780" ph="{&quot;name&quot;: &quot;payment_processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18786:18901" ph="{&quot;name&quot;: &quot;balance&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18907:19018" ph="{&quot;name&quot;: &quot;cards&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19024:19141" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19147:19268" ph="{&quot;name&quot;: &quot;checkoutpx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19274:19389" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19395:19512" ph="{&quot;name&quot;: &quot;congrats&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19518:19635" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19641:19770" ph="{&quot;name&quot;: &quot;ml_esc_manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19776:19898" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19904:20019" ph="{&quot;name&quot;: &quot;payment&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20025:20136" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20142:20251" ph="{&quot;name&quot;: &quot;addons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20257:20374" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20380:20491" ph="{&quot;name&quot;: &quot;point_pos&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20497:20610" ph="{&quot;name&quot;: &quot;rxandroidble&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20616:20724" ph="{&quot;name&quot;: &quot;android-times-square&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20730:20846" ph="{&quot;name&quot;: &quot;okhttp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20852:20965" ph="{&quot;name&quot;: &quot;adapter-rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20971:21085" ph="{&quot;name&quot;: &quot;adapter-rxjava2&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21091:21204" ph="{&quot;name&quot;: &quot;converter-gson&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21210:21309" ph="{&quot;name&quot;: &quot;okio&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21315:21432" ph="{&quot;name&quot;: &quot;retrofit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21438:21568" ph="{&quot;name&quot;: &quot;android-image-cropper&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21574:21673" ph="{&quot;name&quot;: &quot;superslim&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21679:21790" ph="{&quot;name&quot;: &quot;rxlifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21796:21915" ph="{&quot;name&quot;: &quot;rxlifecycle-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21921:22050" ph="{&quot;name&quot;: &quot;rxlifecycle-android-lifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22056:22152" ph="{&quot;name&quot;: &quot;eventbus&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22158:22268" ph="{&quot;name&quot;: &quot;fotoapparat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22274:22386" ph="{&quot;name&quot;: &quot;cameraview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22392:22488" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22494:22587" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22593:22699" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22705:22828" ph="{&quot;name&quot;: &quot;biometrics_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22834:22937" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22943:23048" ph="{&quot;name&quot;: &quot;rxkotlin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23054:23156" ph="{&quot;name&quot;: &quot;zbar&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23162:23266" ph="{&quot;name&quot;: &quot;commons-lang3&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23272:23403" ph="{&quot;name&quot;: &quot;kotlin-android-extensions-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23409:23520" ph="{&quot;name&quot;: &quot;kotlin-stdlib&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23526:23644" ph="{&quot;name&quot;: &quot;kotlin-stdlib-common&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23650:23753" ph="{&quot;name&quot;: &quot;calligraphy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23759:23875" ph="{&quot;name&quot;: &quot;kotlin-stdlib-jdk7&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23881:23987" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23993:24113" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24119:24283" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24289:24422" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24428:24570" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24576:24718" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24724:24867" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24873:24989" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24995:25111" ph="{&quot;name&quot;: &quot;webview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25117:25232" ph="{&quot;name&quot;: &quot;drawer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25238:25373" ph="{&quot;name&quot;: &quot;data-manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25379:25512" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25518:25658" ph="{&quot;name&quot;: &quot;mlbusinesscomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25664:25776" ph="{&quot;name&quot;: &quot;kotlin-reflect&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25782:25905" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25911:26006" ph="{&quot;name&quot;: &quot;aspectjrt&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26012:26138" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26144:26265" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26271:26395" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26401:26509" ph="{&quot;name&quot;: &quot;hint-picker&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26515:26628" ph="{&quot;name&quot;: &quot;sms-verification&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26634:26760" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26766:26923" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26929:27055" ph="{&quot;name&quot;: &quot;in-app-updates&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27061:27177" ph="{&quot;name&quot;: &quot;scanner&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27183:27306" ph="{&quot;name&quot;: &quot;draft-modal&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27312:27428" ph="{&quot;name&quot;: &quot;cardform&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27434:27543" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27549:27666" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27672:27820" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27826:28001" ph="{&quot;name&quot;: &quot;discounts_touchpoint&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28007:28109" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28115:28217" ph="{&quot;name&quot;: &quot;appcompat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28223:28323" ph="{&quot;name&quot;: &quot;cardview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28329:28430" ph="{&quot;name&quot;: &quot;customtabs&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28436:28550" ph="{&quot;name&quot;: &quot;material&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28556:28660" ph="{&quot;name&quot;: &quot;gridlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28666:28767" ph="{&quot;name&quot;: &quot;multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28773:28876" ph="{&quot;name&quot;: &quot;widget&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28882:28986" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28992:29100" ph="{&quot;name&quot;: &quot;recyclerview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29106:29210" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29216:29310" ph="{&quot;name&quot;: &quot;media&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29316:29423" ph="{&quot;name&quot;: &quot;legacy-support-v4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29429:29533" ph="{&quot;name&quot;: &quot;transition&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29539:29655" ph="{&quot;name&quot;: &quot;constraintlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29661:29784" ph="{&quot;name&quot;: &quot;constraintlayout-solver&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29790:29900" ph="{&quot;name&quot;: &quot;installreferrer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29906:30015" ph="{&quot;name&quot;: &quot;lifecycle-extensions&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30021:30121" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30127:30231" ph="{&quot;name&quot;: &quot;work-runtime-ktx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30237:30335" ph="{&quot;name&quot;: &quot;mockito-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30341:30437" ph="{&quot;name&quot;: &quot;hamcrest-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30443:30543" ph="{&quot;name&quot;: &quot;mockito-inline&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30549:30650" ph="{&quot;name&quot;: &quot;robolectric&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30656:30762" ph="{&quot;name&quot;: &quot;shadows-multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30768:30875" ph="{&quot;name&quot;: &quot;shadows-supportv4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30881:30991" ph="{&quot;name&quot;: &quot;shadows-playservices&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30997:31077" ph="{&quot;name&quot;: &quot;junit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="31083:31188" ph="{&quot;name&quot;: &quot;timber&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1589307466861" expanded="true" signature="0:31194" ph="{...}" />
+            <marker date="1589307466861" expanded="true" signature="17:31192" ph="[...]" />
+            <marker date="1589307466861" expanded="true" signature="12445:12454" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12552:12565" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12571:12691" ph="{&quot;name&quot;: &quot;credits&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12697:12798" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12804:12910" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.remote\\.configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12916:13034" ph="{&quot;name&quot;: &quot;ui_components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13040:13133" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.discovery&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13139:13259" ph="{&quot;name&quot;: &quot;engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13265:13396" ph="{&quot;name&quot;: &quot;flux-client&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13402:13493" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.fontela&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13499:13615" ph="{&quot;name&quot;: &quot;history&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13621:13781" ph="{&quot;name&quot;: &quot;instore_home_sections&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13787:13908" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13914:14043" ph="{&quot;name&quot;: &quot;kvs-defaults&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14049:14159" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14165:14309" ph="{&quot;name&quot;: &quot;marketplace\\-map&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14315:14438" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14444:14580" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.merchengine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14586:14702" ph="{&quot;name&quot;: &quot;metrics&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14708:14826" ph="{&quot;name&quot;: &quot;mlcharts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14832:14948" ph="{&quot;name&quot;: &quot;header&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14954:15074" ph="{&quot;name&quot;: &quot;profile-data&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15080:15203" ph="{&quot;name&quot;: &quot;profile-picture&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15209:15329" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15335:15492" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15498:15624" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15630:15791" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15797:15927" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15933:16062" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16068:16208" ph="{&quot;name&quot;: &quot;renderer-fresco&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16214:16331" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16337:16448" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16454:16570" ph="{&quot;name&quot;: &quot;processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16576:16683" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.recommendations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16689:16783" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.comparator&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16789:16877" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.qadb&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16883:17010" ph="{&quot;name&quot;: &quot;remedy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17016:17144" ph="{&quot;name&quot;: &quot;rule\\-engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17150:17238" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17244:17373" ph="{&quot;name&quot;: &quot;input&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17379:17500" ph="{&quot;name&quot;: &quot;attestation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17506:17610" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.uicomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17616:17773" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17779:17905" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17911:18064" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18070:18192" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18198:18314" ph="{&quot;name&quot;: &quot;vip_commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18320:18438" ph="{&quot;name&quot;: &quot;api&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18444:18535" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18541:18659" ph="{&quot;name&quot;: &quot;account_money_plugin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18665:18780" ph="{&quot;name&quot;: &quot;payment_processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18786:18901" ph="{&quot;name&quot;: &quot;balance&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18907:19018" ph="{&quot;name&quot;: &quot;cards&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19024:19141" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19147:19268" ph="{&quot;name&quot;: &quot;checkoutpx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19274:19389" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19395:19512" ph="{&quot;name&quot;: &quot;congrats&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19518:19635" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19641:19770" ph="{&quot;name&quot;: &quot;ml_esc_manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19776:19898" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19904:20019" ph="{&quot;name&quot;: &quot;payment&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20025:20136" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20142:20251" ph="{&quot;name&quot;: &quot;addons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20257:20374" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20380:20491" ph="{&quot;name&quot;: &quot;point_pos&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20497:20610" ph="{&quot;name&quot;: &quot;rxandroidble&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20616:20724" ph="{&quot;name&quot;: &quot;android-times-square&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20730:20846" ph="{&quot;name&quot;: &quot;okhttp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20852:20965" ph="{&quot;name&quot;: &quot;adapter-rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20971:21085" ph="{&quot;name&quot;: &quot;adapter-rxjava2&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21091:21204" ph="{&quot;name&quot;: &quot;converter-gson&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21210:21309" ph="{&quot;name&quot;: &quot;okio&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21315:21432" ph="{&quot;name&quot;: &quot;retrofit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21438:21568" ph="{&quot;name&quot;: &quot;android-image-cropper&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21574:21673" ph="{&quot;name&quot;: &quot;superslim&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21679:21790" ph="{&quot;name&quot;: &quot;rxlifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21796:21915" ph="{&quot;name&quot;: &quot;rxlifecycle-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21921:22050" ph="{&quot;name&quot;: &quot;rxlifecycle-android-lifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22056:22152" ph="{&quot;name&quot;: &quot;eventbus&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22158:22268" ph="{&quot;name&quot;: &quot;fotoapparat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22274:22386" ph="{&quot;name&quot;: &quot;cameraview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22392:22488" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22494:22587" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22593:22699" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22705:22828" ph="{&quot;name&quot;: &quot;biometrics_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22834:22937" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22943:23048" ph="{&quot;name&quot;: &quot;rxkotlin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23054:23156" ph="{&quot;name&quot;: &quot;zbar&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23162:23266" ph="{&quot;name&quot;: &quot;commons-lang3&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23272:23403" ph="{&quot;name&quot;: &quot;kotlin-android-extensions-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23409:23520" ph="{&quot;name&quot;: &quot;kotlin-stdlib&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23526:23644" ph="{&quot;name&quot;: &quot;kotlin-stdlib-common&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23650:23753" ph="{&quot;name&quot;: &quot;calligraphy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23759:23875" ph="{&quot;name&quot;: &quot;kotlin-stdlib-jdk7&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23881:23987" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23993:24113" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24119:24283" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24289:24422" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24428:24570" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24576:24718" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24724:24867" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24873:24989" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24995:25111" ph="{&quot;name&quot;: &quot;webview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25117:25232" ph="{&quot;name&quot;: &quot;drawer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25238:25373" ph="{&quot;name&quot;: &quot;data-manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25379:25512" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25518:25658" ph="{&quot;name&quot;: &quot;mlbusinesscomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25664:25776" ph="{&quot;name&quot;: &quot;kotlin-reflect&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25782:25905" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25911:26006" ph="{&quot;name&quot;: &quot;aspectjrt&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26012:26138" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26144:26265" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26271:26395" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26401:26509" ph="{&quot;name&quot;: &quot;hint-picker&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26515:26628" ph="{&quot;name&quot;: &quot;sms-verification&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26634:26760" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26766:26923" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26929:27055" ph="{&quot;name&quot;: &quot;in-app-updates&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27061:27177" ph="{&quot;name&quot;: &quot;scanner&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27183:27306" ph="{&quot;name&quot;: &quot;draft-modal&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27312:27428" ph="{&quot;name&quot;: &quot;cardform&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27434:27543" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27549:27666" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27672:27820" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27826:28001" ph="{&quot;name&quot;: &quot;discounts_touchpoint&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28007:28109" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28115:28217" ph="{&quot;name&quot;: &quot;appcompat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28223:28323" ph="{&quot;name&quot;: &quot;cardview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28329:28430" ph="{&quot;name&quot;: &quot;customtabs&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28436:28550" ph="{&quot;name&quot;: &quot;material&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28556:28660" ph="{&quot;name&quot;: &quot;gridlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28666:28767" ph="{&quot;name&quot;: &quot;multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28773:28876" ph="{&quot;name&quot;: &quot;widget&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28882:28986" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28992:29100" ph="{&quot;name&quot;: &quot;recyclerview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29106:29210" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29216:29310" ph="{&quot;name&quot;: &quot;media&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29316:29423" ph="{&quot;name&quot;: &quot;legacy-support-v4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29429:29533" ph="{&quot;name&quot;: &quot;transition&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29539:29655" ph="{&quot;name&quot;: &quot;constraintlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29661:29784" ph="{&quot;name&quot;: &quot;constraintlayout-solver&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29790:29900" ph="{&quot;name&quot;: &quot;installreferrer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29906:30015" ph="{&quot;name&quot;: &quot;lifecycle-extensions&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30021:30121" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30127:30231" ph="{&quot;name&quot;: &quot;work-runtime-ktx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30237:30335" ph="{&quot;name&quot;: &quot;mockito-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30341:30437" ph="{&quot;name&quot;: &quot;hamcrest-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30443:30543" ph="{&quot;name&quot;: &quot;mockito-inline&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30549:30650" ph="{&quot;name&quot;: &quot;robolectric&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30656:30762" ph="{&quot;name&quot;: &quot;shadows-multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30768:30875" ph="{&quot;name&quot;: &quot;shadows-supportv4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30881:30991" ph="{&quot;name&quot;: &quot;shadows-playservices&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30997:31077" ph="{&quot;name&quot;: &quot;junit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="31083:31188" ph="{&quot;name&quot;: &quot;timber&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1588084592831" expanded="true" signature="23:40" ph="{&quot;name&quot;: &quot;MeliSDK&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android-whitelist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="507" column="6" lean-forward="false" selection-start-line="507" selection-start-column="6" selection-end-line="507" selection-end-column="6" />
+          <folding>
+            <marker date="1589307466861" expanded="true" signature="0:31194" ph="{...}" />
+            <marker date="1589307466861" expanded="true" signature="17:31192" ph="[...]" />
+            <marker date="1589307466861" expanded="true" signature="12445:12454" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12552:12565" ph="{&quot;name&quot;: &quot;listing&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12571:12691" ph="{&quot;name&quot;: &quot;credits&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12697:12798" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12804:12910" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.remote\\.configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="12916:13034" ph="{&quot;name&quot;: &quot;ui_components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13040:13133" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.discovery&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13139:13259" ph="{&quot;name&quot;: &quot;engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13265:13396" ph="{&quot;name&quot;: &quot;flux-client&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13402:13493" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.fontela&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13499:13615" ph="{&quot;name&quot;: &quot;history&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13621:13781" ph="{&quot;name&quot;: &quot;instore_home_sections&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13787:13908" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="13914:14043" ph="{&quot;name&quot;: &quot;kvs-defaults&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14049:14159" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14165:14309" ph="{&quot;name&quot;: &quot;marketplace\\-map&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14315:14438" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14444:14580" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.merchengine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14586:14702" ph="{&quot;name&quot;: &quot;metrics&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14708:14826" ph="{&quot;name&quot;: &quot;mlcharts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14832:14948" ph="{&quot;name&quot;: &quot;header&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="14954:15074" ph="{&quot;name&quot;: &quot;profile-data&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15080:15203" ph="{&quot;name&quot;: &quot;profile-picture&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15209:15329" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15335:15492" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15498:15624" ph="{&quot;name&quot;: &quot;navigationcp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15630:15791" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15797:15927" ph="{&quot;name&quot;: &quot;shipping-address&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="15933:16062" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16068:16208" ph="{&quot;name&quot;: &quot;renderer-fresco&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16214:16331" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16337:16448" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16454:16570" ph="{&quot;name&quot;: &quot;processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16576:16683" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.recommendations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16689:16783" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.comparator&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16789:16877" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.qadb&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="16883:17010" ph="{&quot;name&quot;: &quot;remedy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17016:17144" ph="{&quot;name&quot;: &quot;rule\\-engine&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17150:17238" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17244:17373" ph="{&quot;name&quot;: &quot;input&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17379:17500" ph="{&quot;name&quot;: &quot;attestation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17506:17610" ph="{&quot;group&quot;: &quot;com\\.mercadolibre\\.android\\.uicomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17616:17773" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17779:17905" ph="{&quot;name&quot;: &quot;addresshub&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="17911:18064" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18070:18192" ph="{&quot;name&quot;: &quot;variations&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18198:18314" ph="{&quot;name&quot;: &quot;vip_commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18320:18438" ph="{&quot;name&quot;: &quot;api&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18444:18535" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18541:18659" ph="{&quot;name&quot;: &quot;account_money_plugin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18665:18780" ph="{&quot;name&quot;: &quot;payment_processor&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18786:18901" ph="{&quot;name&quot;: &quot;balance&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="18907:19018" ph="{&quot;name&quot;: &quot;cards&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19024:19141" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19147:19268" ph="{&quot;name&quot;: &quot;checkoutpx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19274:19389" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19395:19512" ph="{&quot;name&quot;: &quot;congrats&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19518:19635" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19641:19770" ph="{&quot;name&quot;: &quot;ml_esc_manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19776:19898" ph="{&quot;name&quot;: &quot;contacts&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="19904:20019" ph="{&quot;name&quot;: &quot;payment&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20025:20136" ph="{&quot;name&quot;: &quot;checkout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20142:20251" ph="{&quot;name&quot;: &quot;addons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20257:20374" ph="{&quot;name&quot;: &quot;sdk&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20380:20491" ph="{&quot;name&quot;: &quot;point_pos&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20497:20610" ph="{&quot;name&quot;: &quot;rxandroidble&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20616:20724" ph="{&quot;name&quot;: &quot;android-times-square&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20730:20846" ph="{&quot;name&quot;: &quot;okhttp&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20852:20965" ph="{&quot;name&quot;: &quot;adapter-rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="20971:21085" ph="{&quot;name&quot;: &quot;adapter-rxjava2&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21091:21204" ph="{&quot;name&quot;: &quot;converter-gson&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21210:21309" ph="{&quot;name&quot;: &quot;okio&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21315:21432" ph="{&quot;name&quot;: &quot;retrofit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21438:21568" ph="{&quot;name&quot;: &quot;android-image-cropper&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21574:21673" ph="{&quot;name&quot;: &quot;superslim&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21679:21790" ph="{&quot;name&quot;: &quot;rxlifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21796:21915" ph="{&quot;name&quot;: &quot;rxlifecycle-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="21921:22050" ph="{&quot;name&quot;: &quot;rxlifecycle-android-lifecycle&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22056:22152" ph="{&quot;name&quot;: &quot;eventbus&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22158:22268" ph="{&quot;name&quot;: &quot;fotoapparat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22274:22386" ph="{&quot;name&quot;: &quot;cameraview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22392:22488" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22494:22587" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22593:22699" ph="{&quot;name&quot;: &quot;rxandroid&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22705:22828" ph="{&quot;name&quot;: &quot;biometrics_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22834:22937" ph="{&quot;name&quot;: &quot;rxjava&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="22943:23048" ph="{&quot;name&quot;: &quot;rxkotlin&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23054:23156" ph="{&quot;name&quot;: &quot;zbar&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23162:23266" ph="{&quot;name&quot;: &quot;commons-lang3&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23272:23403" ph="{&quot;name&quot;: &quot;kotlin-android-extensions-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23409:23520" ph="{&quot;name&quot;: &quot;kotlin-stdlib&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23526:23644" ph="{&quot;name&quot;: &quot;kotlin-stdlib-common&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23650:23753" ph="{&quot;name&quot;: &quot;calligraphy&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23759:23875" ph="{&quot;name&quot;: &quot;kotlin-stdlib-jdk7&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23881:23987" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="23993:24113" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24119:24283" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24289:24422" ph="{&quot;name&quot;: &quot;security_ui&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24428:24570" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24576:24718" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24724:24867" ph="{&quot;name&quot;: &quot;security_preferences&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24873:24989" ph="{&quot;name&quot;: &quot;commons&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="24995:25111" ph="{&quot;name&quot;: &quot;webview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25117:25232" ph="{&quot;name&quot;: &quot;drawer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25238:25373" ph="{&quot;name&quot;: &quot;data-manager&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25379:25512" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25518:25658" ph="{&quot;name&quot;: &quot;mlbusinesscomponents&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25664:25776" ph="{&quot;name&quot;: &quot;kotlin-reflect&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25782:25905" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="25911:26006" ph="{&quot;name&quot;: &quot;aspectjrt&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26012:26138" ph="{&quot;name&quot;: &quot;user_configuration&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26144:26265" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26271:26395" ph="{&quot;name&quot;: &quot;kotlinx-coroutines-android&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26401:26509" ph="{&quot;name&quot;: &quot;hint-picker&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26515:26628" ph="{&quot;name&quot;: &quot;sms-verification&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26634:26760" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26766:26923" ph="{&quot;name&quot;: &quot;traceability&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="26929:27055" ph="{&quot;name&quot;: &quot;in-app-updates&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27061:27177" ph="{&quot;name&quot;: &quot;scanner&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27183:27306" ph="{&quot;name&quot;: &quot;draft-modal&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27312:27428" ph="{&quot;name&quot;: &quot;cardform&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27434:27543" ph="{&quot;name&quot;: &quot;core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27549:27666" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27672:27820" ph="{&quot;name&quot;: &quot;components&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="27826:28001" ph="{&quot;name&quot;: &quot;discounts_touchpoint&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28007:28109" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28115:28217" ph="{&quot;name&quot;: &quot;appcompat&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28223:28323" ph="{&quot;name&quot;: &quot;cardview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28329:28430" ph="{&quot;name&quot;: &quot;customtabs&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28436:28550" ph="{&quot;name&quot;: &quot;material&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28556:28660" ph="{&quot;name&quot;: &quot;gridlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28666:28767" ph="{&quot;name&quot;: &quot;multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28773:28876" ph="{&quot;name&quot;: &quot;widget&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28882:28986" ph="{&quot;name&quot;: &quot;preference&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="28992:29100" ph="{&quot;name&quot;: &quot;recyclerview&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29106:29210" ph="{&quot;name&quot;: &quot;annotation&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29216:29310" ph="{&quot;name&quot;: &quot;media&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29316:29423" ph="{&quot;name&quot;: &quot;legacy-support-v4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29429:29533" ph="{&quot;name&quot;: &quot;transition&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29539:29655" ph="{&quot;name&quot;: &quot;constraintlayout&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29661:29784" ph="{&quot;name&quot;: &quot;constraintlayout-solver&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29790:29900" ph="{&quot;name&quot;: &quot;installreferrer&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="29906:30015" ph="{&quot;name&quot;: &quot;lifecycle-extensions&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30021:30121" ph="{&quot;name&quot;: &quot;work-runtime&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30127:30231" ph="{&quot;name&quot;: &quot;work-runtime-ktx&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30237:30335" ph="{&quot;name&quot;: &quot;mockito-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30341:30437" ph="{&quot;name&quot;: &quot;hamcrest-core&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30443:30543" ph="{&quot;name&quot;: &quot;mockito-inline&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30549:30650" ph="{&quot;name&quot;: &quot;robolectric&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30656:30762" ph="{&quot;name&quot;: &quot;shadows-multidex&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30768:30875" ph="{&quot;name&quot;: &quot;shadows-supportv4&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30881:30991" ph="{&quot;name&quot;: &quot;shadows-playservices&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="30997:31077" ph="{&quot;name&quot;: &quot;junit&quot;...}" />
+            <marker date="1589307466861" expanded="true" signature="31083:31188" ph="{&quot;name&quot;: &quot;timber&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
